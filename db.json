@@ -35,6 +35,18 @@
             "discount": 0.39,
             "link-to-buy": "https://www.dafiti.com.br/Carteira-Colcci-Croco-Vermelha-4858343.html",
             "stock": 10
+        },
+        {
+            "id": 4,
+            "sku": "0002-DBR",
+            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-2-product.jpg",
+            "title": "CARTEIRA COLCCI CROCO VERMELHA",
+            "brand_name": "Colcci",
+            "price_from": 13990,
+            "price_by": 5499,
+            "discount": 0.39,
+            "link-to-buy": "https://www.dafiti.com.br/Carteira-Colcci-Croco-Vermelha-4858343.html",
+            "stock": 10
         }
     ]
 }
