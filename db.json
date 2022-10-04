@@ -11,6 +11,18 @@
             "discount": 0.39,
             "link-to-buy": "https://www.dafiti.com.br/Carteira-Colcci-Croco-Marrom-4858343.html",
             "stock": 100
+        },
+        {
+            "id": 3,
+            "sku": "0004-DBR",
+            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-1-product.jpg",
+            "title": "CARTEIRA COLCCI CROCO MARROM",
+            "brand_name": "Colcci",
+            "price_from": 13990,
+            "price_by": 5499,
+            "discount": 0.39,
+            "link-to-buy": "https://www.dafiti.com.br/Carteira-Colcci-Croco-Marrom-4858343.html",
+            "stock": 100
         }, 
         {
             "id": 2,
