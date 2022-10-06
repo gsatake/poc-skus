@@ -3,7 +3,7 @@
         {
             "id": 1,
             "sku": "0001-DBR",
-            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-1-product.jpg",
+            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-3-product.jpg",
             "title": "CARTEIRA COLCCI CROCO MARROM",
             "brand_name": "Colcci",
             "price_from": 13990,
@@ -15,7 +15,7 @@
         {
             "id": 3,
             "sku": "0004-DBR",
-            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-3-product.jpg",
+            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-1-product.jpg",
             "title": "CARTEIRA COLCCI CROCO MARROM",
             "brand_name": "Colcci",
             "price_from": 13990,
@@ -27,7 +27,7 @@
         {
             "id": 2,
             "sku": "0002-DBR",
-            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-2-product.jpg",
+            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-4-product.jpg",
             "title": "CARTEIRA COLCCI CROCO VERMELHA",
             "brand_name": "Colcci",
             "price_from": 13990,
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "sku": "0002-DBR",
-            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-4-product.jpg",
+            "image": "https://static.dafiti.com.br/p/4858343-8:36-3438584-2-product.jpg",
             "title": "CARTEIRA COLCCI CROCO VERMELHA",
             "brand_name": "Colcci",
             "price_from": 13990,
